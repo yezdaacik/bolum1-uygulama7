@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\bin\Debug\Uygulama20230925-1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\bin\Debug\Uygulama20230925-1.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\bin\Debug\Uygulama20230925-1.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925-1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925-1.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama20230925-1\Uygulama20230925-1\obj\Debug\Uygulama20230925-1.pdb
